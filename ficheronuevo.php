@@ -1,4 +1,3 @@
 <?php
-
-echo 'codigo para fichero nuevo';
+echo 'dasdas';
 ?>
