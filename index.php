@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'adiosdasdasd';
+        echo 'adios';
         ?>
     </body>
 </html>
