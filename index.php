@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        echo 'branca1';
+        echo 'branca 1';
         ?>
     </body>
 </html>
